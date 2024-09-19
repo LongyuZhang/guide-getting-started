@@ -1,0 +1,2 @@
+-Xshareclasses:name=openj9_system_scc,cacheDir=/opt/java/.scc 
+-Xscmx300m
